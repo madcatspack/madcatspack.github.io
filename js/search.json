@@ -1,0 +1,75 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "titles.accesstomadcats",
+    "excerpt": "\n",
+    "content": "{% translate_file access-to-madcats/access-to-madcats.html %}\n",
+    "url": "/access-to-madcats/"
+  },
+  
+  {
+    "title": "titles.confirmsubscription",
+    "excerpt": "\n",
+    "content": "{% translate_file confirm-subscription/confirm-subscription.html %}\n",
+    "url": "/confirm-subscription/"
+  },
+  
+  {
+    "title": "titles.faq",
+    "excerpt": "\n",
+    "content": "{% translate_file frequently-asked-questions/frequently-asked-questions.html %}\n",
+    "url": "/frequently-asked-questions/"
+  },
+  
+  {
+    "title": "titles.index",
+    "excerpt": "\n",
+    "content": "{% translate_file index/index.html %}\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "titles.madcatsthankssubscription",
+    "excerpt": "\n",
+    "content": "{% translate_file madcats-thanks-subscription/madcats-thanks-subscription.html %}\n",
+    "url": "/madcats-thanks-subscription/"
+  },
+  
+  {
+    "title": "titles.roadmap",
+    "excerpt": "\n",
+    "content": "{% translate_file roadmap/roadmap.html %}\n",
+    "url": "/roadmap/"
+  },
+  
+  {
+    "title": "titles.sharemadcats",
+    "excerpt": "\n",
+    "content": "{% translate_file share-madcats/share-madcats.html %}\n",
+    "url": "/share-madcats/"
+  },
+  
+  {
+    "title": "titles.terms",
+    "excerpt": "\n",
+    "content": "{% translate_file terms-and-conditions/terms-and-conditions.html %}\n",
+    "url": "/terms-and-conditions/"
+  },
+  
+  {
+    "title": "titles.whymadcats",
+    "excerpt": "\n",
+    "content": "{% translate_file why-madcats/why-madcats.html %}\n",
+    "url": "/why-madcats/"
+  }
+  
+]
+
