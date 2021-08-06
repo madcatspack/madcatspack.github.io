@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://madcats.shop/sitemap_index.xml
