@@ -6,7 +6,7 @@
     <url>
       <loc>https://madcats.shop/404.html</loc>
       
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
+        <lastmod>2021-08-08T20:03:32+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -35,19 +35,6 @@
     
   
     
-    <url>
-      <loc>https://madcats.shop/js/store/backups/appunticonverter.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
     
     <url>
@@ -65,63 +52,11 @@
     
   
     
-    <url>
-      <loc>https://madcats.shop/js/store/backups/converter%20copy%202.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
+  
     
   
     
-    <url>
-      <loc>https://madcats.shop/js/store/backups/converter%20copy.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
-    
-    <url>
-      <loc>https://madcats.shop/js/store/converter%20copy.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://madcats.shop/js/store/converter.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
@@ -157,19 +92,6 @@
     
   
     
-    <url>
-      <loc>https://madcats.shop/js/lang/lang.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
     
     <url>
@@ -204,33 +126,7 @@
     
   
     
-    <url>
-      <loc>https://madcats.shop/css/screen.css</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
-    
-    <url>
-      <loc>https://madcats.shop/js/search.json</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
@@ -283,48 +179,7 @@
     
   
     
-    <url>
-      <loc>https://madcats.shop/js/store/backups/working.converter.js</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
   
-    
-    <url>
-      <loc>https://madcats.shop/redirects.json</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://madcats.shop/css/screen.css.map</loc>
-      
-        <lastmod>2021-08-07T21:14:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
   
